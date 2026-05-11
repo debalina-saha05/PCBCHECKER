@@ -5,3 +5,5 @@ Pillow
 numpy
 pydantic
 google-genai
+fastapi
+uvicorn
